@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Router>
+  <RouterName>R4</RouterName>
+  <RecPort>9300</RecPort>
+  <IP>127.0.0.1</IP>
+  <logIP>10.0.0.4</logIP>
+  <CloudPort>8000</CloudPort>
+</Router>

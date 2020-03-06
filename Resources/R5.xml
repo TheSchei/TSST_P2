@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Router>
+  <RouterName>R5</RouterName>
+  <RecPort>9400</RecPort>
+  <IP>127.0.0.1</IP>
+  <logIP>10.0.0.5</logIP>
+  <CloudPort>8000</CloudPort>
+</Router>

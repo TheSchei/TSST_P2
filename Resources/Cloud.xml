@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Cloud>
+  <Port>8000</Port>
+  <IP>127.0.0.1</IP>
+  <DriverPort>2137</DriverPort>
+  <DriverIP>8.8.8.8</DriverIP>
+</Cloud>

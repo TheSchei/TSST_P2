@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Driver>
+  <IP>127.0.0.1</IP>
+  <LogicIP>8.8.8.8</LogicIP>
+  <RecPort>2137</RecPort>
+</Driver>
